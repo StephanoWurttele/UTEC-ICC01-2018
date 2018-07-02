@@ -37,4 +37,4 @@ p = promedio(lista)
 ma = mayor(lista)
 mu = multiplicacion(lista)
 print ("suma: ", s, " resta: ", r, " promedio: ", p, " mayor: ", ma, " multplicacion: ", mu)
-
+input()
